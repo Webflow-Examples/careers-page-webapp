@@ -2,6 +2,8 @@
 
 A [Webflow Cloud](https://webflow.com/cloud) example app to showcase an example careers page. Built with Next.js, this app integrates Webflow components via [**DevLink**](https://developers.webflow.com/webflow-cloud/devlink) and uses the [**Greenhouse API**](https://developers.greenhouse.io/job-board.html#introduction) to display job listings dynamically.
 
+[![Deploy to Webflow](https://webflow.com/img/deploy-dark.svg)](https://webflow.com/dashboard/cloud/deploy?repo=https://github.com/Webflow-Examples/careers-page-webapp)
+
 ## ✨ Features
 
 - **Dynamic Job Listings**: Fetches real-time job data from Greenhouse API on the backend
